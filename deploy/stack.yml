@@ -40,7 +40,7 @@ Mappings:
     'us-east-2':
       AMI: 'ami-71ca9114'
     'us-west-1':
-      AMI: 'ami-de347abe'
+      AMI: 'ami-090e0fc566929d98b'
     'us-west-2':
       AMI: 'ami-b04e92d0'
 Resources:
